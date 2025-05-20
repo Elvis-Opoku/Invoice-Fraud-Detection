@@ -23,3 +23,10 @@ Flags duplicate, outlier, and suspicious invoices
 Combines 7 rule-based checks with a machine learning model
 Interactive filters by date, currency, region, and vendor
 Shows fraud trends over time and by business unit
+
+## Dashboard
+
+![image](https://github.com/user-attachments/assets/a12653b0-efa1-4eee-a9ae-3ccde287a2fa)
+
+![image](https://github.com/user-attachments/assets/bab86c29-2f36-4a57-b77a-2c9735ebd11c)
+
