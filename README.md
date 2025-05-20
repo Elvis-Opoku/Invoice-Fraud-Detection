@@ -54,7 +54,18 @@ Shows fraud trends over time and by business unit
 
 ## Future Enhancements
 *Integrate with real-time invoice ingestion APIs
+
 *Deploy dashboard on Power BI Service*
+
 *Implement feedback loop from finance team for ML retraining*
+
 *Feedback loop from finance team to improve ML accuracy*
+
+## Author##
+#Elvis Opoku Antwi#
+🔗 LinkedIn
+
+💻 GitHub
+
+I’m passionate about using data to solve real business problems—especially around automation, fraud detection, and financial process improvement. This project is part of my growing portfolio in analytics and machine learning.
 
