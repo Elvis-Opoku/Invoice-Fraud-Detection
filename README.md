@@ -31,9 +31,30 @@ Combines 7 rule-based checks with a machine learning model
 Interactive filters by date, currency, region, and vendor
 Shows fraud trends over time and by business unit
 
-## Dashboard Preview
+## Power BI Dashboard
 
 ![image](https://github.com/user-attachments/assets/a12653b0-efa1-4eee-a9ae-3ccde287a2fa)
 
 ![image](https://github.com/user-attachments/assets/bab86c29-2f36-4a57-b77a-2c9735ebd11c)
+
+**Open Invoice_Fraud_Report.pbix using Power BI Desktop**
+
+**Explore filters by region, currency, date, and fraud flag**
+
+## Results Summary
+*29,000+ invoices flagged (2.7%)*
+
+*USD and EUR had the highest fraud risk by volume*
+
+*South Region showed the most flagged invoices*
+
+*March and June were peak fraud months*
+
+*Power BI dashboard allows instant filtering by risk area*
+
+## Future Enhancements
+*Integrate with real-time invoice ingestion APIs
+*Deploy dashboard on Power BI Service*
+*Implement feedback loop from finance team for ML retraining*
+*Feedback loop from finance team to improve ML accuracy*
 
