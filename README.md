@@ -16,3 +16,10 @@ Isolation Forest: (anomaly detection)
 Excel/CSV kaggle.com)
 
 ![image](https://github.com/user-attachments/assets/867eb819-9140-423d-830a-b5e4e6ea243b)
+
+## Key Features
+
+Flags duplicate, outlier, and suspicious invoices
+Combines 7 rule-based checks with a machine learning model
+Interactive filters by date, currency, region, and vendor
+Shows fraud trends over time and by business unit
