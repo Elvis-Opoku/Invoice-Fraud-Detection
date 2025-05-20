@@ -61,8 +61,9 @@ Shows fraud trends over time and by business unit
 
 *Feedback loop from finance team to improve ML accuracy*
 
-## Author##
-#Elvis Opoku Antwi#
+## Author
+Elvis Opoku Antwi
+
 🔗 LinkedIn
 
 💻 GitHub
